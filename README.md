@@ -1,8 +1,8 @@
 # FiniteStateGame
 
 For this game, I used Twine to create a passage that demonstrates the concept of "State"
-\nEach node in the passage gives user a choice (mostly 2)
-\nDepending on their choice, they will have different paths
+<br>Each node in the passage gives user a choice (mostly 2)
+<br>Depending on their choice, they will have different paths
 
 ## Main story
 
